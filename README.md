@@ -51,36 +51,22 @@ According to the circuit schematic, the robot is powered by two 3.7-volt batteri
 
 ## Part List
    
+
 This project features a Line Follower Robot with the added capability of obstacle avoidance. The robot utilizes an Arduino UNO and various components to follow a black line while intelligently navigating around obstacles.
 
 ## Parts List
 
 
-### [
-Banggood.com
-](
-https://www.banggood.com/
-)
+### [Banggood.com]
+(https://www.banggood.com/)
 
 
-1.
- [
-Arduino Uno
-](
-https://bit.ly/2Fz8M4q
-)
-2.
- [
-Motor Driver Shield
-](
-https://bit.ly/2VWaYsn
-)
-3.
- [
-Wheels (4x)
-](
-https://bit.ly/2suQJEY
-)
+1.[Arduino Uno]
+(https://bit.ly/2Fz8M4q)
+2.[Motor Driver Shield]
+(https://bit.ly/2VWaYsn)
+3.[Wheels (4x)]
+(https://bit.ly/2suQJEY)
 4.
  [
 TT Gear Motor (4x)

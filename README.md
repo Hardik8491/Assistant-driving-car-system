@@ -24,9 +24,7 @@ This project involves the creation of a versatile Line Follower Robot with integ
 
 ## Circuit Diagram
 
-![Circuit Diagram](
 <img src="/protptype.jpg" alt="My cool image" />
-)
 
 According to the circuit schematic, the robot is powered by two 3.7-volt batteries connected in series, providing a total of 7.4 volts. The Arduino controls two infrared sensors for line following, an ultrasonic sensor for obstacle detection, and a mini servo motor. The L298 Motor Driver facilitates the control of two DC gear motors for both clockwise and counterclockwise rotations.
 
